@@ -1,3 +1,3 @@
-module github.com/efaarroyo/pubmodule
+module github.com/efarroyo/pubmodule
 
 go 1.18
